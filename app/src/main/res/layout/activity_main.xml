@@ -17,7 +17,8 @@
         android:id="@+id/buttonCheck"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/check" />
+        android:text="@string/check"
+        android:background="@android:color/holo_orange_light"/>
 
     <TextView
         android:id="@+id/textView"
